@@ -1,0 +1,45 @@
+﻿  Application.cpp
+  SceneCollision.cpp
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(32,27): warning C4305: '=': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(42,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(53,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(63,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(74,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(134,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(143,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(152,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(161,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(181,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(189,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(206,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(214,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(287,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(293,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(302,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(308,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(323,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(339,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(350,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(360,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(460,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(461,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(464,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(465,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(468,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(469,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(472,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(473,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(755,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(764,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(775,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(776,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(777,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(1181,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(1204,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(1207,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(1208,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(1216,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Physics\Source\SceneCollision.cpp(1226,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  SceneManager.cpp
+  Generating Code...
+  Physics.vcxproj -> D:\Work\source\PPHY\A2_ProgCheck\DM2212_Physics\Debug\Physics.exe
